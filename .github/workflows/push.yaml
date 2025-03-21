@@ -1,6 +1,7 @@
 name: golang-pipline
 
 on: push
+
 jobs:
   test:
     runs-on: ubuntu-latest
